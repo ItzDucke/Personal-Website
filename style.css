@@ -13,7 +13,12 @@
     width: 100%;
     height: 500px;      /* equal height */
     object-fit: cover;  /* crops evenly */
-    margin: auto;
+    div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
 }
 
 /* Center titles */
